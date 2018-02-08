@@ -1,14 +1,6 @@
- Datentr„ger in Laufwerk C: ist Windows
- Volumeseriennummer: 00A6-4845
-
- Verzeichnis von C:\Users\schlachter\workspace\microblog
-
-02.02.2018  16:36    <DIR>          .
-02.02.2018  16:36    <DIR>          ..
-02.02.2018  16:35    <DIR>          app
-02.02.2018  16:34                21 microblog.py
-02.02.2018  16:36                 0 requirements.txt
-02.02.2018  16:30    <DIR>          venv
-02.02.2018  16:35    <DIR>          __pycache__
-               2 Datei(en),             21 Bytes
-               5 Verzeichnis(se), 41.670.778.880 Bytes frei
+click==6.7
+Flask==0.12.2
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+Werkzeug==0.14.1
