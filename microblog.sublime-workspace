@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"displayEmployee\tfunction"
+			],
+			[
+				"cl",
+				"ClassName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "compare",
+		"selected_items":
+		[
+			[
+				"compare",
+				"Sublimerge: Compare to Snapshot"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"merge",
+				"Sublimerge: Show Uncommited Changes..."
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Build With: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"format",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"breakpoi",
+				"Python Breakpoints: Toggle"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: discov",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: lint",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pep",
+				"AutoPEP8: Preview Changes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Goto object assignment"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"Package Control: t",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 452.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dir",
+			"pwd",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/schlachter/workspace/python/heroku/python-getting-started/hello/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/schlachter/workspace/microblog/microblog.py",
+		"/C/Users/schlachter/workspace/microblog/app/routes.py",
+		"/C/Users/schlachter/workspace/microblog/app/__init__.py",
+		"/C/Users/schlachter/workspace/microblog/microblog.sublime-project",
+		"/C/Users/schlachter/workspace/microblog/.git/COMMIT_EDITMSG",
+		"/C/Users/schlachter/workspace/microblog/.gitignore",
+		"/Q/passwoerter.txt",
+		"/C/Users/schlachter/workspace/python/flask_web/hello.py",
+		"/C/Users/schlachter/Box Sync/InOut/VoBa/Themen_9_feb_18.txt",
+		"/C/Users/schlachter/Box Sync/InOut/Depot/doc_data.txt",
+		"/C/Users/schlachter/Box Sync/InOut/Depot/Themen_9_feb_18.txt",
+		"/C/Users/schlachter/Downloads/yeelight_demo_lan_ctrl_python(1)/YeelightWifiBulbLanCtrl.py",
+		"/C/Users/schlachter/workspace/flask-restful/api.py",
+		"/C/Users/schlachter/Downloads/swis2-ISXD70_DWKM_181130-1801181130-NW---bin",
+		"/C/Users/schlachter/Downloads/Ostern2018.ics",
+		"/C/Users/schlachter/Downloads/BasicCompanyData-part2/BasicCompanyData-2018-01-01-part2_5.csv",
+		"//extranet.adesso.de@SSL/DavWWWRoot/bundesverwaltungsamt/daisy/Freigegebene Dokumente/01 Anforderungsmanagement/95_FUL/30_Lastenheft/Fachprozesse/Änderungshistorie der Fachprozesse.txt",
+		"/C/Users/schlachter/workspace/ghpages/steffens/.git/COMMIT_EDITMSG",
+		"/C/Users/schlachter/workspace/python/heroku/python-getting-started/hello/views.py",
+		"/C/Users/schlachter/workspace/python/heroku/python-getting-started/hello/templates/index.html",
+		"/C/Users/schlachter/workspace/python/heroku/python-getting-started/hello/migrations/__init__.py",
+		"/C/Users/schlachter/Downloads/yeelight_demo_app_for_Chrome/yeelight_demo_app/README.md",
+		"/C/Users/schlachter/Downloads/yeelight_demo_lan_ctrl_python/YeelightWifiBulbLanCtrl.py",
+		"/C/Users/schlachter/workspace/python/heroku/python-getting-started/hello/admin.py",
+		"/C/Users/schlachter/workspace/python/heroku/python-getting-started/hello/models.py",
+		"/C/Users/schlachter/workspace/python/heroku/python-getting-started/hello/tests.py",
+		"/C/Users/schlachter/workspace/python/heroku/python-getting-started/hello/__init__.py",
+		"/C/Users/schlachter/Desktop/Testfaelle.txt",
+		"/C/Users/schlachter/workspace/python/the-flask-mega-tutorial-part-i-hello-world/app/views.py",
+		"/C/Users/schlachter/workspace/python/the-flask-mega-tutorial-part-i-hello-world/app/__init__.py",
+		"/C/Users/schlachter/Downloads/Untitled",
+		"/C/Users/schlachter/workspace/python/the-flask-mega-tutorial-part-i-hello-world/run.py",
+		"/C/Users/schlachter/workspace/meteor_tutorialspoint/meteorApp/client/meteorApp.html",
+		"/C/Users/schlachter/workspace/meteor_tutorialspoint/meteorApp/client/meteorApp.js",
+		"/C/Users/schlachter/workspace/meteor_tutorialspoint/meteorApp/server/main.js",
+		"/C/Users/schlachter/workspace/meteor_tutorialspoint/meteorApp/client/main.css",
+		"/C/Users/schlachter/workspace/meteor_tutorialspoint/meteorApp/client/main.js",
+		"/C/Users/schlachter/workspace/meteor_tutorialspoint/meteorApp/client/main.html",
+		"/C/Users/schlachter/workspace/meteor_tutorialspoint/meteorApp/client/main..*",
+		"/C/Users/schlachter/workspace/setup.py",
+		"/C/Users/schlachter/workspace/foobar.py",
+		"/C/Users/schlachter/pdftk_help.txt",
+		"/C/Users/schlachter/workspace/Spring_boot_quick-start/pom.xml",
+		"/C/Users/schlachter/eclipse-workspace/ActivitiDeveloperQuickStart/pom.xml",
+		"/C/Users/schlachter/eclipse-workspace/ActivitiDeveloperQuickStart/src/main/ressources/log4j.properties",
+		"/C/Users/schlachter/Downloads/LH_Foerderung_Schulen.docx",
+		"/C/Users/schlachter/workspace/python/tkinter/hi.py",
+		"/C/Users/schlachter/workspace/python/py2exe/setup.py",
+		"/C/Users/schlachter/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/UNKNOWN-0.0.0-py3.6.egg-info",
+		"/C/Users/schlachter/workspace/python/py2exe/hello.py",
+		"/C/Users/schlachter/workspace/python/flask_web/README.txt",
+		"/C/Users/schlachter/Downloads/achtzehnternovemberbeisteffen.ics",
+		"/C/Users/schlachter/mac",
+		"/C/Users/schlachter/workspace/python/wtforms/first.py",
+		"/C/Users/schlachter/workspace/python/setup.py",
+		"/C/Users/schlachter/workspace/python/flask/hello.py",
+		"/C/Users/schlachter/workspace/python/hello.py",
+		"/C/Users/schlachter/workspace/python/flask/minimal.py",
+		"/C/Users/schlachter/workspace/python/flask/tutorial/microblog/run.py",
+		"/C/Users/schlachter/workspace/python/flask/tutorial/microblog/__init__.py",
+		"/C/Users/schlachter/workspace/python/tutorialspoint_flask/hello.py",
+		"/C/tmp/20170919_AnmerkungenZumTestkonzept.txt",
+		"/C/Users/schlachter/workspace/python/flask/tutorial/microblog/app/views.py",
+		"/C/Users/schlachter/workspace/python/flask/tutorial/link.txt",
+		"/C/Users/schlachter/workspace/react/hello.js",
+		"/C/Users/schlachter/Downloads/LOC.tab",
+		"/C/Users/schlachter/workspace/python/cxfreeze/setup.py",
+		"/C/Users/schlachter/workspace/python/cxfreeze/qtp.py",
+		"/C/Users/schlachter/workspace/python/pyttsx/talk.py",
+		"/C/Users/schlachter/workspace/python/cxfreeze/readndurllib.py",
+		"/C/Users/schlachter/PycharmProjects/flaskTutorial/README.txt",
+		"/C/tmp/doc_data.txt",
+		"/C/tmp/protokoll.txt",
+		"/C/Users/schlachter/Downloads/ausschreibung_itz_bund_notizen",
+		"/C/Users/schlachter/Downloads/Standortverlauf.json",
+		"/C/Users/schlachter/workspace/python/mod.py",
+		"/C/Users/schlachter/workspace/python/telegram/todo_bot/.git/COMMIT_EDITMSG",
+		"/C/Users/schlachter/workspace/python/telegram/todo_bot/README.txt",
+		"/C/Users/schlachter/Box Sync/UK_Cambridge_Sommer_2017/Planung.boxnote",
+		"/C/Users/schlachter/workspace/eurostat/app.py",
+		"/C/Users/schlachter/workspace/python/pycal/My Project-f1030aaa2e08.json",
+		"/C/Users/schlachter/workspace/python/py2exe/quickstart.py",
+		"/C/Users/schlachter/workspace/python/sqlite3_test/test_sql.db",
+		"/C/tmp/schulsw-sst/GPN~111~2016-2017~1.gpn",
+		"/C/Users/schlachter/workspace/python/classes_test/e.py",
+		"/C/Users/schlachter/workspace/filename.json",
+		"/C/Users/schlachter/workspace/python/wsgi/environment.py",
+		"/C/Users/schlachter/workspace/python/os-sample-python/wsgi.py",
+		"/C/Users/schlachter/workspace/python/os-sample-python/requirements.txt",
+		"/C/Users/schlachter/workspace/python/os-sample-python/README.md",
+		"/C/Users/schlachter/workspace/python/os-sample-python/config.py",
+		"/C/Users/schlachter/Downloads/7410_zyn4d25l.rerx",
+		"/C/Users/schlachter/.gitconfig",
+		"/C/Users/schlachter/workspace/python/telegram/telegram_linton/echobot.py",
+		"/C/Users/schlachter/workspace/python/telegram/telegram_linton/.git/COMMIT_EDITMSG",
+		"/C/Users/schlachter/workspace/python/projects/hello/settings.py",
+		"/C/Users/schlachter/workspace/python/hello_venv/hello.py",
+		"/C/Users/schlachter/AppData/Local/Temp/Temp1_LightifyHomeApp-Src-1.0.zip/LighitfyApp/src/main/java/com/osram/action/DeviceLoadController.java",
+		"/C/Users/schlachter/AppData/Local/Temp/Temp1_LightifyHomeApp-Src-1.0.zip/LighitfyApp/src/main/java/com/osram/action/DeviceOperationController.java",
+		"/C/tmp/20170614_Abstimmung_DAS_Malage_Hr_Wilke.txt",
+		"/C/Users/schlachter/workspace/python/PySide/hello.py",
+		"/C/Users/schlachter/workspace/python/osimap/reading.py",
+		"/C/Users/schlachter/AppData/Local/Temp/Temp1_sipgate_api_perl_examples.zip/sipgate_api_perl_examples/sipgateAPI-voice.pl",
+		"/C/Users/schlachter/workspace/telegram_bot_linton/telegram_linton/.gitignore",
+		"/C/Users/schlachter/workspace/telegram_bot_linton/telegram_linton/telegram_settings.py",
+		"/C/Users/schlachter/workspace/telegram_bot_linton/telegram_linton/picam.py",
+		"/C/Users/schlachter/workspace/telegram_bot_linton/telegram_linton/hello.py",
+		"/C/Users/schlachter/Downloads/eric6-17.06/README.rst",
+		"/C/Users/schlachter/workspace/telegram_bot_linton/telegram_linton/echobot.py",
+		"/C/Users/schlachter/workspace/python/Django/mysite/manage.py",
+		"/C/Users/schlachter/workspace/python/Django/README_scs.txt",
+		"/C/Users/schlachter/workspace/python/Django/mysite/mysite/__init__.py",
+		"/C/Users/schlachter/workspace/python/Django/mysite/mysite/settings.py",
+		"/C/Users/schlachter/workspace/python/Django/mysite/mysite/urls.py",
+		"/C/Users/schlachter/workspace/python/Django/mysite/mysite/wsgi.py",
+		"/C/tmp/20170607_SST_SchulSW_Mail.txt",
+		"/C/Users/schlachter/workspace/python/pyqt/start.py",
+		"/C/Users/schlachter/Downloads/Wales.tab (1)/Wales.tab",
+		"/C/Users/schlachter/workspace/python/pyqt/edytor.py",
+		"/C/Users/schlachter/workspace/python/ExeApp/hello.py",
+		"/C/Users/schlachter/AppData/Local/.meteor/meteor.bat",
+		"/C/Users/schlachter/AppData/Local/.meteor/packages/meteor-tool/1.4.2_3/mt-os.windows.x86_32/meteor.bat",
+		"/C/Users/schlachter/workspace/python/lintonbot/config.ini",
+		"/C/Users/schlachter/workspace/python/lintonbot/lintonbot.py",
+		"/C/Users/schlachter/workspace/python/lintonbot/.git/COMMIT_EDITMSG",
+		"/C/Users/schlachter/workspace/python/lintonbot/.gitignore",
+		"/C/tmp/oraclexe_installation.txt",
+		"/C/Users/schlachter/workspace/python/Properties/myconfig.ini"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@",
+			"noack",
+			"dlr",
+			"encrypt",
+			"national",
+			"lat =",
+			"python",
+			"lint",
+			"QApplication",
+			"lint",
+			"getup",
+			"\"CMBRAC_GSBISAS\".",
+			"400 BYTE",
+			"120 BYTE",
+			"2560 BYTE",
+			"3200 BYTE",
+			"4 BYTE",
+			"240 BYTE",
+			"320 BYTE",
+			"NUMBER(*,0)",
+			"temp_f",
+			"get_json_from_url",
+			"bilk",
+			"derendorf",
+			"Karlsruhe",
+			"-dev",
+			"hibern",
+			"h2",
+			"büttgen",
+			"dortmund st",
+			"herren",
+			"karlsruhe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"400",
+			"120",
+			"2560",
+			"3200",
+			"4",
+			"240",
+			"320",
+			"NUMBER"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "microblog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
